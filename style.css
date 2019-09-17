@@ -1,0 +1,13 @@
+label{
+	display: block;
+	font:lrem 'Fira Sans', sans-serif;
+}
+input,
+label {
+	margin:.4rem 0;
+}
+input{
+	width:400;
+	border-radius:5%/100%;
+	background-color: white;
+}
